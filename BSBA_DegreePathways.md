@@ -1227,7 +1227,7 @@
 |---|---|:---:|
 | MGMT.3800 | Business Ethics (SRE) | 3 |
 | MGMT.4150 | Managing Teams and Projects | 3 |
-| MGMT.xxxx / POMS.4040 | Management Elective / Managerial Quality Control | 3 |
+| MGMT.3/4xxx / POMS.4040 | Management Elective / Managerial Quality Control | 3 |
 | xxxx.xxxx | Manning Elective (3000/4000 level) | 3 |
 | xxxx.xxxx | Manning or Non-Manning Elective (3000/4000 level) | 3 |
 
