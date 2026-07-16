@@ -213,11 +213,20 @@
 | MGMT.7960 | Doctoral Dissertation | 1 | 9 | — |
 | MGMT.7970 | Managerial Research Seminar | 0 | 0 | Good standing in the BA-PhD program. |
 
+## MATH
+
+| Course Code | Title | Min Credits | Max Credits | Prerequisites |
+|---|---|:---:|:---:|---|
+| MATH.1210 | Management Precalculus | 3 | 3 | — |
+| MATH.1220 | Management Calculus | 3 | 3 | Pre-Req: MATH.1210 Management Precalculus, or equivalent placement. |
+| MATH.2830 | Introduction to Statistics | 3 | 3 | Pre-Req: MATH.1210 Management Precalculus, or equivalent placement. |
+
 ## MIST
 
 | Course Code | Title | Min Credits | Max Credits | Prerequisites |
 |---|---|:---:|:---:|---|
 | MIST.2010 | Business Information Systems | 3 | 3 | — |
+| MIST.2020 | Emerging Technologies and Data Storytelling | 3 | 3 | Pre-Req: MIST.2010 Business Information Systems, or Instructor Permission. |
 | MIST.3030 | Database Management Systems | 3 | 3 | MIST.2010 Business Information Systems, or matriculation in BSIT program having completed INFO.1600 Introduction to Information Systems, or Instructor Permission. |
 | MIST.3040 | Data Communications and Networks | 3 | 3 | Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission. |
 | MIST.3050 | Business Applications Development | 3 | 3 | Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission. |
