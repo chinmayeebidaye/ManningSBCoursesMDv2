@@ -1,26 +1,97 @@
 # Manning School of Business — BSBA Program Requirements
 
+> **Part 1 (Core Requirements) differs by pathway — determine New vs. Regular Pathway first (see BSBA_DegreePathways.md keyword rule) before applying these tables.** Part 2 (Concentration Requirements) is the same for both pathways.
+
 ## PART 1: CORE REQUIREMENTS
 
-### Manning Breadth of Knowledge (BOK) — 35 Credits
+### New Pathway (Fall 2026+ catalog)
+
+**Manning Breadth of Knowledge (BOK) — 35 Credits**
+
+| Course Number | Title | Credits |
+|---|---|:---:|
+| ENGL.1010 or HONR.1100 | College Writing I / First Year Seminar in Honors (CW) | 3 |
+| ENGL.1020 | College Writing II (CW) | 3 |
+| __________ | Arts and Humanities Elective (AH) | 3 |
+| __________ | Arts and Humanities Elective (AH) | 3 |
+| __________ | Arts and Humanities Elective (AH) | 3 |
+| ECON.2010 | Principles of Microeconomics (SS) | 3 |
+| __________ | Social Sciences Perspective Elective (SS) | 3 |
+| MATH.1210 | Management Precalculus (MATH) | 3 |
+| MATH.2830 | Introduction to Statistics (STEM) | 3 |
+| __________ | Science Elective (SCL) | 3 |
+| __________ | Co-Req. Science Lab (SCL) | 1 |
+| __________ | Science Elective (SCL) | 3 |
+| __________ | Co-Req. Science Lab (SCL) | 1 |
+
+**AH rule:** No HIST course is required (though encouraged). No more than **2 of the 3 AH electives** may share the same course prefix/department — e.g., a student with two HIST courses cannot count a third HIST course toward the remaining AH slot and must pick a different department.
+
+**Manning Collateral Requirements — 6 Credits**
+
+| Course Number | Title | Credits |
+|---|---|:---:|
+| LGST.2620 | Business Law | 3 |
+| ECON.2020 | Economics II (Macro) | 3 |
+
+**Manning Foundation Requirements — 27 Credits**
+
+| Course Number | Title | Credits |
+|---|---|:---:|
+| ENTR.1500 | Intro to Entrepreneurship & Business | 3 |
+| ACCT.2010 | Accounting/Financial | 3 |
+| ACCT.2020 | Accounting/Managerial | 3 |
+| POMS.2010 | Introduction to Business Analytics | 3 |
+| MKTG.2100 | Professional Communications (WOC) | 3 |
+| MKTG.2010 | Marketing Principles | 3 |
+| MIST.2010 | Business Information Systems | 3 |
+| FINA.2000 | Personal Finance | 3 |
+| MIST.2020 | Emerging Technologies and Data Storytelling | 3 |
+
+Note: ECON.2110 (Statistics) is **not** part of the New Pathway Foundation — MATH.2830 (STEM, above) covers statistics instead.
+
+**Manning Core Requirements — 12 Credits**
+
+| Course Number | Title | Credits |
+|---|---|:---:|
+| FINA.3010 | Financial Management (QL) | 3 |
+| POMS.3010 | Operations Management | 3 |
+| MGMT.3010 | Organizational Behavior | 3 |
+| MGMT.3800 | Business Ethics (SRE) | 3 |
+
+**Manning Senior Core Requirements — 3 Credits (Choose ONE) + Career Connected Experience**
+
+| Course Number | Title | Credits |
+|---|---|:---:|
+| MGMT.4900 or ENTR.4960 | Strategic Management / Entrepreneurship Strategy Management | 3 |
+
+**Career Connected Experience (CCE) Requirement:** New Pathway students must also separately satisfy the Manning Career Connected Experience Requirement. This is a verification requirement, not necessarily a for-credit course:
+- If satisfied via a for-credit course (e.g., ENTR.4900 Mill City Consulting Projects), that course also counts toward the student's Concentration requirement — advise the student this may overlap with a remaining elective.
+- If satisfied via a non-credit experience (e.g., a BEST project), it is tracked through a SIS student group rather than a course.
+- If a report shows this requirement unsatisfied, flag it and link the student to: https://www.uml.edu/catalog/undergraduate/business/policies/manning-career-connected-experience-requirement.aspx
+
+### Regular Pathway (pre-Fall 2026 catalog)
+
+**Manning Breadth of Knowledge (BOK) — 35 Credits**
 
 | Course Number | Title | Credits |
 |---|---|:---:|
 | ENGL.1010 or HONR.1100 | College Writing I / First Year Seminar in Honors (CW) | 3 |
 | ENGL.1020 | College Writing II (CW) | 3 |
 | HIST.______ | History Elective (AH) | 3 |
+| __________ | Arts and Humanities Elective (AH) | 3 |
+| __________ | Arts and Humanities Elective (AH) | 3 |
 | __________ | Social Sciences Perspective Elective (SS) | 3 |
 | __________ | Social Sciences Perspective Elective (SS) | 3 |
-| MATH.1210 or STEM | Management Precalculus (MATH.1210) or STEM elective | 3 |
+| MATH.1210 | Management Precalculus (MATH) | 3 |
 | MATH.1220 | Management Calculus (MATH) | 3 |
 | __________ | Science Elective (SCL) | 3 |
 | __________ | Co-Req. Science Lab (SCL) | 1 |
 | __________ | Science Elective (SCL) | 3 |
 | __________ | Co-Req. Science Lab (SCL) | 1 |
-| __________ | Arts and Humanities Elective (AH) | 3 |
-| __________ | Arts and Humanities Elective (AH) | 3 |
 
-### Manning Collateral Requirements — 9 Credits
+**AH rule:** One AH elective must be a HIST course. No more than two BOK courses overall may share the same course prefix.
+
+**Manning Collateral Requirements — 9 Credits**
 
 | Course Number | Title | Credits |
 |---|---|:---:|
@@ -28,7 +99,7 @@
 | ECON.2010 | Economics I (Micro) | 3 |
 | ECON.2020 | Economics II (Macro) | 3 |
 
-### Manning Foundation Requirements — 24 Credits
+**Manning Foundation Requirements — 24 Credits**
 
 | Course Number | Title | Credits |
 |---|---|:---:|
@@ -41,7 +112,7 @@
 | MKTG.2010 | Marketing Principles | 3 |
 | MIST.2010 | Business Information Systems | 3 |
 
-### Manning Core Requirements — 12 Credits
+**Manning Core Requirements — 12 Credits**
 
 | Course Number | Title | Credits |
 |---|---|:---:|
@@ -50,15 +121,19 @@
 | MGMT.3010 | Organizational Behavior | 3 |
 | MGMT.3800 | Business Ethics (SRE) | 3 |
 
-### Manning Senior Core Requirements — 3 Credits (Choose ONE)
+**Manning Senior Core Requirements — 3 Credits (Choose ONE)**
 
 | Course Number | Title | Credits |
 |---|---|:---:|
 | MGMT.4900 or ENTR.4960 | Strategic Management / Entrepreneurship Strategy Management | 3 |
 
+No Career Connected Experience Requirement applies to the Regular Pathway.
+
 ---
 
 ## PART 2: CONCENTRATION REQUIREMENTS
+
+*(Same for both New and Regular Pathway students.)*
 
 ### Entrepreneurship Concentration
 
@@ -145,3 +220,5 @@
 | MKTG.4120 | Global Marketing (DCA) |
 | POMS.4020 | Global Supply Chain Management (AIL, IL) |
 | Elective | International Business Elective (3000/4000 level) — choose from: LGST.3660, ECON.4030, ENTR.4100, ECON.4060, MGMT.4550, Approved International Experience/Study Abroad, MGMT.4400 (if MGMT.4350 taken), or MGMT.4350 (if MGMT.4400 taken) |
+
+**Note:** Supply Chain & Operations Management Concentration has no New Pathway equivalent (folded into Analytics and Operations Management) — see agent instructions for handling.
