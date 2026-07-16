@@ -1,5 +1,7 @@
 # Manning School of Business — Course Prerequisites
 
+> **How to use this file:** Read each course's prerequisites exactly as listed below — never infer, paraphrase, or guess a prerequisite from memory. If a course code/subject does not appear anywhere in this file (e.g., ECON, LGST, HIST outside the ECON section below), its prerequisites are not confirmed or not required. When checking whether a course can be scheduled in a given semester, trace the **full prerequisite chain** — a prerequisite's own prerequisites — not just the course's direct listed prerequisite(s). Example: ACCT.3030 lists ACCT.3200 as an acceptable prereq, and ACCT.3200 itself requires ACCT.3100; so ACCT.3100 and ACCT.3030 cannot be scheduled in the same semester, nor can ACCT.3030 go the semester immediately after ACCT.3100 — ACCT.3200 must come between them unless there is an alternative pre-req that works for the course.
+
 ## ACCT
 
 | Course Code | Title | Min Credits | Max Credits | Prerequisites |
@@ -63,6 +65,14 @@
 | BUSI.6890 | Internship in Business Administration | 3 | 3 | Students must be in a Manning School of Business MBA or MS program. Students must have a GPA greater than 3.0. |
 | BUSI.7010 | Doctoral Curricular Practical Training | 1 | 1 | Good standing in the BA-PhD program. |
 
+## ECON
+
+| Course Code | Title | Min Credits | Max Credits | Prerequisites |
+|---|---|:---:|:---:|---|
+| ECON.2010 | Principles of Microeconomics | 3 | 3 | — |
+| ECON.2020 | Principles of Macroeconomics | 3 | 3 | — |
+| ECON.2110 | Statistics for Business and Economics I | 3 | 3 | Pre-Req: MATH.1210 Management Precalculus, or equivalent placement. |
+
 ## ENTR
 
 | Course Code | Title | Min Credits | Max Credits | Prerequisites |
@@ -104,6 +114,14 @@
 | ENTR.7440 | Current Topics in Innovation and Entrepreneurship | 3 | 3 | Pre-Req: Business-PhD Students only or permission of the Instructor. |
 | ENTR.7960 | Doctoral Dissertation | 1 | 9 | Good standing in the BA-PhD program. |
 | ENTR.7970 | Managerial Research Seminar | 0 | 0 | Good standing in the BA-PhD program. |
+
+## ECON
+
+| Course Code | Title | Min Credits | Max Credits | Prerequisites |
+|---|---|:---:|:---:|---|
+| ECON.2010 | Principles of Microeconomics | 3 | 3 | — |
+| ECON.2020 | Principles of Macroeconomics | 3 | 3 | — |
+| ECON.2110 | Statistics for Business and Economics I | 3 | 3 | Pre-Req: MATH.1210 Management Precalculus, or equivalent placement. |
 
 ## FINA
 
