@@ -131,6 +131,46 @@ No Career Connected Experience Requirement applies to the Regular Pathway.
 
 ---
 
+### Math Placement — ALEKS Test (applies to MATH.1210 in both pathways)
+
+MATH.1210 (Management Precalculus) has no listed course prerequisite, but incoming/continuing Manning students who have **not yet completed MATH.1210** (and have no transfer/AP equivalent on record) may place directly into a math course using their **ALEKS placement test score** instead of starting from scratch. This placement option applies **only within Manning School of Business advising** — do not suggest it for non-Manning courses.
+
+| ALEKS Score | Placement Result |
+|---|:---:|
+| 00 – 29 | MATH.1115: Fundamentals of Algebra |
+| 30 – 100 | MATH.1210: Management Precalculus |
+| 55 – 100\* | MATH.1220: Management Calculus (skips MATH.1210) |
+
+\*A score of 55–100 allows the student to skip MATH.1210 and place directly into MATH.1220.
+
+**Agent guidance:** If a student has not completed (and is not currently enrolled in) MATH.1210, and no equivalent placement/transfer credit is on record, present the ALEKS test as an option before defaulting to MATH.1210 in the plan — explain that their placement depends on their ALEKS score per the table above, and that a 55+ score lets them skip straight to MATH.1220. Do not assume a score; ask the student if they've taken the ALEKS test and, if so, what their score was, or point them to retake it. Link students to: https://www.uml.edu/orientation/placement-testing/testing-placements.aspx for testing details. If the student hasn't taken ALEKS and doesn't know their score, default to planning MATH.1210 as normal but mention ALEKS as a way to potentially accelerate.
+
+### Math Placement — ALEKS Test
+
+*(Applies to MATH.1210 in both pathways and only within Manning School of Business advising.)*
+
+MATH.1210 (Management Precalculus) has no listed course prerequisite. Incoming/continuing Manning students who have **not completed MATH.1210** and have no transfer/AP equivalent may use their **ALEKS placement test score** to place directly into a math course.
+
+| ALEKS Score | Placement Result |
+|---|:---:|
+| 00–29 | MATH.1115: Fundamentals of Algebra |
+| 30–100 | MATH.1210: Management Precalculus |
+| 55–100* | MATH.1220: Management Calculus (skips MATH.1210) |
+
+\*A score of **55–100** allows the student to skip MATH.1210 and place directly into MATH.1220.
+
+### Notes
+
+- The ALEKS placement option applies **only to Manning School of Business advising**. Do not suggest this placement pathway for non-Manning courses.
+- ALEKS placement is relevant when the student has not completed or is not currently enrolled in MATH.1210 and has no equivalent transfer/AP credit or other documented placement.
+- The ALEKS test Is an option before defaulting to MATH.1210 in the plan.
+- A score of **55 or higher** allows direct placement into MATH.1220 and therefore allows the student to skip MATH.1210.
+- A score of **30–54** places the student into MATH.1210.
+- A score of **0–29** places the student into MATH.1115.
+- Do not assume or invent an ALEKS score.
+- If the student has not taken ALEKS or does not know their score, MATH.1210 may be used as the default planning course while noting that ALEKS placement could allow accelerated placement.
+- Testing and placement details are available through UMass Lowell's placement testing information: https://www.uml.edu/orientation/placement-testing/testing-placements.aspx
+
 ## PART 2: CONCENTRATION REQUIREMENTS
 
 *(Same for both New and Regular Pathway students.)*
@@ -222,3 +262,57 @@ No Career Connected Experience Requirement applies to the Regular Pathway.
 | Elective | International Business Elective (3000/4000 level) — choose from: LGST.3660, ECON.4030, ENTR.4100, ECON.4060, MGMT.4550, Approved International Experience/Study Abroad, MGMT.4400 (if MGMT.4350 taken), or MGMT.4350 (if MGMT.4400 taken) |
 
 **Note:** Supply Chain & Operations Management Concentration has no New Pathway equivalent (folded into Analytics and Operations Management) — see agent instructions for handling.
+
+---
+
+## PART 3: HONORS COLLEGE REQUIREMENTS
+
+*(Applies only to students enrolled in the Honors College, in addition to — not instead of — their Manning BOK/Collateral/Foundation/Core/Senior Core/Concentration requirements above. Applies to both New and Regular Pathway students.)*
+
+### General Requirements
+
+To complete the Honors College requirements and graduate as a **Commonwealth Honors Scholar**, honors students must:
+
+- Maintain a **3.250 cumulative GPA**
+- Complete the Honors curriculum requirements (H1–H8)
+- Complete at least **one approved Enrichment requirement (E1)** for each semester the student is a member of the Honors College
+- Complete and defend an **Honors Project or Honors Thesis**
+
+To complete the Honors College requirements and graduate with the **Honors College Distinction**, honors students must:
+
+- Maintain a **3.250 cumulative GPA**
+- Complete the Honors curriculum requirements **excluding the Honors Project**
+- Complete at least **one approved Enrichment requirement (E1)** for each semester the student is a member of the Honors College
+- Be a member of the Honors College during the **semester of graduation**
+
+### Honors Curriculum Requirements
+
+| # | Requirement | Notes |
+|---|---|---|
+| HONORS 1 (H1) | First Year Seminar in Honors (FYSH) | If necessary, may be replaced by a dedicated honors AH/SS core curriculum course. |
+| HONORS 2 (H2) | Honors College Writing II | If the student already has credit for non-honors College Writing II, may be replaced by a dedicated honors AH/SS core curriculum course. |
+| HONORS 3 (H3) | Upper-Level Honors Seminar | Must be a specific upper-level honors seminar course/experience. Not satisfiable by a regular 3000/4000-level elective. Verify against the student's report. |
+| HONORS 4 (H4) | Honors Course / Experiential Learning | Either a dedicated honors course OR an Honors Experiential Learning Opportunity. |
+| HONORS 5 (H5) | Honors Course / Honors-by-Contract / Experiential Learning | Either a dedicated honors course, an Honors-by-Contract on a non-honors 3000/4000-level course, OR an Honors Experiential Learning Opportunity. |
+| HONORS 6 (H6) | Honors Course / Honors-by-Contract / Experiential Learning / Graduate Course | Either a dedicated honors 2000/3000/4000-level course, an Honors-by-Contract on a non-honors 3000/4000-level course, an Honors Experiential Learning Opportunity, OR any graduate-level course. |
+| HONORS 7 (H7) | Honors Project/Thesis Preparation | Either a course supporting the first half of a two-semester Honors Project or Thesis, a 3000/4000-level dedicated honors course, OR a graduate course. |
+| HONORS 8 (H8) | Honors Project/Thesis Completion | Either an upper-level letter-graded course supporting the second half of a two-semester Honors Project/Thesis OR an upper-level letter-graded course supporting a one-semester Honors Project. |
+
+**Notes:**
+- Honors College requirements apply only to students enrolled in the Honors College.
+- **H1:** First Year Seminar in Honors (FYSH). If necessary, this may be replaced by a dedicated honors AH/SS core curriculum course.
+- **H2:** Honors College Writing II. If the student already has non-honors College Writing II credit, this may be replaced by a dedicated honors AH/SS core curriculum course.
+- **H3:** Must be an upper-level Honors Seminar. A regular 3000/4000-level elective does not satisfy this requirement.
+- **H4:** May be satisfied by either a dedicated honors course or an Honors Experiential Learning Opportunity.
+- **H5:** May be satisfied by a dedicated honors course, an Honors-by-Contract on a non-honors 3000/4000-level course, or an Honors Experiential Learning Opportunity.
+- **H6:** May be satisfied by a dedicated honors 2000/3000/4000-level course, an Honors-by-Contract on a non-honors 3000/4000-level course, an Honors Experiential Learning Opportunity, or any graduate-level course.
+- For Commonwealth Honors, no more than **two (2) Honors Experiential Learning Opportunities** may be used to satisfy H4/H5/H6.
+- **H7:** May be satisfied by a course supporting the first half of a two-semester Honors Project/Thesis, a 3000/4000-level dedicated honors course, or a graduate course.
+- **H8:** Must be an upper-level letter-graded course supporting either the second half of a two-semester Honors Project/Thesis or a one-semester Honors Project.
+- H3, H7, and H8 are distinct honors/project requirements and are not automatically satisfied by generic electives. If the student's planned course does not clearly satisfy the stated requirement, it should be confirmed with Honors College advisor.
+- For **H4**, an eligible course may be a Manning or non-Manning course, but it must be a dedicated Honors course or an Honors Experiential Learning Opportunity.
+- For **H5/H6**, an eligible course may be a Manning or non-Manning course. When using an Honors-by-Contract, the student must confirm the “Honors-By-Contract” with the course faculty and complete the necessary paperwork with the Honors College.
+- Honors requirements are **in addition to**, not replacements for, Manning degree requirements. However, certain Manning courses may satisfy Honors requirements when they meet the applicable H1–H8 criteria.
+- H7/H8 timing should be considered carefully, particularly when an Honors Project/Thesis is expected during the senior year.
+- The Honors Project/Thesis is separate from the Manning Capstone (MGMT.4900/ENTR.4960).
+- For Honors students, "Remaining Requirements" should include a separate **"Honors College Requirements"** subsection listing H1–H8 individually.
