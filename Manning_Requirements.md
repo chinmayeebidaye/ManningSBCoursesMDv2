@@ -131,20 +131,6 @@ No Career Connected Experience Requirement applies to the Regular Pathway.
 
 ---
 
-### Math Placement — ALEKS Test (applies to MATH.1210 in both pathways)
-
-MATH.1210 (Management Precalculus) has no listed course prerequisite, but incoming/continuing Manning students who have **not yet completed MATH.1210** (and have no transfer/AP equivalent on record) may place directly into a math course using their **ALEKS placement test score** instead of starting from scratch. This placement option applies **only within Manning School of Business advising** — do not suggest it for non-Manning courses.
-
-| ALEKS Score | Placement Result |
-|---|:---:|
-| 00 – 29 | MATH.1115: Fundamentals of Algebra |
-| 30 – 100 | MATH.1210: Management Precalculus |
-| 55 – 100\* | MATH.1220: Management Calculus (skips MATH.1210) |
-
-\*A score of 55–100 allows the student to skip MATH.1210 and place directly into MATH.1220.
-
-**Agent guidance:** If a student has not completed (and is not currently enrolled in) MATH.1210, and no equivalent placement/transfer credit is on record, present the ALEKS test as an option before defaulting to MATH.1210 in the plan — explain that their placement depends on their ALEKS score per the table above, and that a 55+ score lets them skip straight to MATH.1220. Do not assume a score; ask the student if they've taken the ALEKS test and, if so, what their score was, or point them to retake it. Link students to: https://www.uml.edu/orientation/placement-testing/testing-placements.aspx for testing details. If the student hasn't taken ALEKS and doesn't know their score, default to planning MATH.1210 as normal but mention ALEKS as a way to potentially accelerate.
-
 ### Math Placement — ALEKS Test
 
 *(Applies to MATH.1210 in both pathways and only within Manning School of Business advising.)*
