@@ -1,12 +1,12 @@
 # Manning School of Business - BSBA Degree Pathways
 
-> Each concentration lists a **New Pathway** (Fall 2026+ catalog) and a **Regular Pathway** (pre-Fall 2026 catalog, for continuing students).
+> Each concentration lists a **Fall 2026 and Beyond Pathway** (Fall 2026+ catalog) and a **Prior (Before Fall 2026) Pathway** (pre-Fall 2026 catalog, for continuing students).
 
 ---
 
 ## Business Administration - Accounting Concentration
 
-### New Pathway
+### Fall 2026 and Beyond Pathway
 
 #### Freshman Year
 
@@ -117,7 +117,7 @@
 - Students are strongly encouraged to take a HIST course as an AH elective.
 - No more than two Breadth of Knowledge courses may be taken with the same prefix.
 
-### Regular Pathway
+### Prior (Before Fall 2026) Pathway
 
 #### Freshman Year
 
@@ -220,7 +220,7 @@
 
 ## Business Administration - Analytics and Operations Management Concentration
 
-### New Pathway
+### Fall 2026 and Beyond Pathway
 
 #### Freshman Year
 
@@ -322,7 +322,7 @@
 
 **Notes:** Total Minimum Credits: 122. Minimum Major Credits: 36; Maximum: 54. CCE Requirement applies. Footnotes match the Accounting Fall 2026 pathway above (Capstone, DCA, Science with Lab, Calculus recommendation, HIST elective encouragement, BOK prefix limit).
 
-### Regular Pathway
+### Prior (Before Fall 2026) Pathway
 
 #### Freshman Year
 
@@ -425,7 +425,7 @@
 
 ## Business Administration - Entrepreneurship Concentration
 
-### New Pathway
+### Fall 2026 and Beyond Pathway
 
 #### Freshman Year
 
@@ -527,7 +527,7 @@
 
 **Notes:** Total Minimum Credits: 122. Minimum Major Credits: 36; Maximum: 54. CCE Requirement applies. 1Capstone: MGMT.4900 or ENTR.4960. 2Science with Lab options as above. 3Calculus recommended as an elective for future graduate study. 4Students encouraged to take a HIST course as an AH elective. No more than two BOK courses with the same prefix.
 
-### Regular Pathway
+### Prior (Before Fall 2026) Pathway
 
 #### Freshman Year
 
@@ -630,7 +630,7 @@
 
 ## Business Administration - Finance Concentration
 
-### New Pathway
+### Fall 2026 and Beyond Pathway
 
 #### Freshman Year
 
@@ -732,7 +732,7 @@
 
 **Notes:** Total Minimum Credits: 122. Minimum Major Credits: 36; Maximum: 54. CCE Requirement applies. Footnotes match the Accounting Fall 2026 pathway above (Capstone, DCA, Science with Lab, Calculus recommendation, HIST elective encouragement, BOK prefix limit).
 
-### Regular Pathway
+### Prior (Before Fall 2026) Pathway
 
 #### Freshman Year
 
@@ -835,7 +835,7 @@
 
 ## Business Administration - International Business Concentration
 
-### New Pathway
+### Fall 2026 and Beyond Pathway
 
 #### Freshman Year
 
@@ -944,7 +944,7 @@
 - Students encouraged to take a HIST course as an AH elective.
 - No more than two BOK courses with the same prefix.
 
-### Regular Pathway
+### Prior (Before Fall 2026) Pathway
 
 #### Freshman Year
 
@@ -1047,7 +1047,7 @@
 
 ## Business Administration - Management Concentration
 
-### New Pathway
+### Fall 2026 and Beyond Pathway
 
 #### Freshman Year
 
@@ -1149,7 +1149,7 @@
 
 **Notes:** Total Minimum Credits: 122. Minimum Major Credits: 36; Maximum: 54. CCE Requirement applies. Footnotes match the Accounting Fall 2026 pathway above (Capstone, DCA, Science with Lab, Calculus recommendation, HIST elective encouragement, BOK prefix limit). Note: MGMT.4100 is now titled "Negotiation Strategy and Process" (formerly "Negotiations").
 
-### Regular Pathway
+### Prior (Before Fall 2026) Pathway
 
 #### Freshman Year
 
@@ -1227,7 +1227,7 @@
 |---|---|:---:|
 | MGMT.3800 | Business Ethics (SRE) | 3 |
 | MGMT.4150 | Managing Teams and Projects | 3 |
-| MGMT.3/4xxx / POMS.4040 | Management Elective / Managerial Quality Control | 3 |
+| MGMT.xxxx / POMS.4040 | Management Elective / Managerial Quality Control | 3 |
 | xxxx.xxxx | Manning Elective (3000/4000 level) | 3 |
 | xxxx.xxxx | Manning or Non-Manning Elective (3000/4000 level) | 3 |
 
@@ -1252,7 +1252,7 @@
 
 ## Business Administration - Management Information Systems Concentration
 
-### New Pathway
+### Fall 2026 and Beyond Pathway
 
 #### Freshman Year
 
@@ -1354,7 +1354,7 @@
 
 **Notes:** Total Minimum Credits: 122. Minimum Major Credits: 36; Maximum: 54. CCE Requirement applies. Footnotes match the Accounting Fall 2026 pathway above (Capstone, DCA, Science with Lab, Calculus recommendation, HIST elective encouragement, BOK prefix limit).
 
-### Regular Pathway
+### Prior (Before Fall 2026) Pathway
 
 #### Freshman Year
 
@@ -1457,7 +1457,7 @@
 
 ## Business Administration - Marketing Concentration
 
-### New Pathway
+### Fall 2026 and Beyond Pathway
 
 #### Freshman Year
 
@@ -1559,7 +1559,7 @@
 
 **Notes:** Total Minimum Credits: 122. Minimum Major Credits: 36; Maximum: 54. CCE Requirement applies. 1Capstone: MGMT.4900 or ENTR.4960. 2Science with Lab options as above. 3Calculus recommended as an elective for future graduate study. 4Students encouraged to take a HIST course as an AH elective. No more than two BOK courses with the same prefix.
 
-### Regular Pathway
+### Prior (Before Fall 2026) Pathway
 
 #### Freshman Year
 

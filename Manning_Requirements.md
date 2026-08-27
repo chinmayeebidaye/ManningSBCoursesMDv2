@@ -1,10 +1,10 @@
 # Manning School of Business — BSBA Program Requirements
 
-> **Part 1 (Core Requirements) differs by pathway — determine New vs. Regular Pathway first (see BSBA_DegreePathways.md keyword rule) before applying these tables.** Part 2 (Concentration Requirements) is the same for both pathways.
+> **Part 1 (Core Requirements) differs by pathway — determine Fall 2026 and Beyond vs. Prior (Before Fall 2026) Pathway first (see BSBA_DegreePathways.md keyword rule) before applying these tables.** Part 2 (Concentration Requirements) is the same for both pathways.
 
 ## PART 1: CORE REQUIREMENTS
 
-### New Pathway (Fall 2026+ catalog)
+### Fall 2026 and Beyond Pathway (Fall 2026+ catalog)
 
 **Manning Breadth of Knowledge (BOK) — 35 Credits**
 
@@ -47,7 +47,7 @@
 | FINA.2000 | Personal Finance | 3 |
 | MIST.2020 | Emerging Technologies and Data Storytelling | 3 |
 
-Note: ECON.2110 (Statistics) is **not** part of the New Pathway Foundation — MATH.2830 (STEM, above) covers statistics instead.
+Note: ECON.2110 (Statistics) is **not** part of the Fall 2026 and Beyond Pathway Foundation — MATH.2830 (STEM, above) covers statistics instead.
 
 **Manning Core Requirements — 12 Credits**
 
@@ -64,12 +64,12 @@ Note: ECON.2110 (Statistics) is **not** part of the New Pathway Foundation — M
 |---|---|:---:|
 | MGMT.4900 or ENTR.4960 | Strategic Management / Entrepreneurship Strategy Management | 3 |
 
-**Career Connected Experience (CCE) Requirement:** New Pathway students must also separately satisfy the Manning Career Connected Experience Requirement. This is a verification requirement, not necessarily a for-credit course:
+**Career Connected Experience (CCE) Requirement:** Fall 2026 and Beyond Pathway students must also separately satisfy the Manning Career Connected Experience Requirement. This is a verification requirement, not necessarily a for-credit course:
 - If satisfied via a for-credit course (e.g., ENTR.4900 Mill City Consulting Projects), that course also counts toward the student's Concentration requirement — advise the student this may overlap with a remaining elective.
 - If satisfied via a non-credit experience (e.g., a BEST project), it is tracked through a SIS student group rather than a course.
 - If a report shows this requirement unsatisfied, flag it and link the student to: https://www.uml.edu/catalog/undergraduate/business/policies/manning-career-connected-experience-requirement.aspx
 
-### Regular Pathway (pre-Fall 2026 catalog)
+### Prior (Before Fall 2026) Pathway (pre-Fall 2026 catalog)
 
 **Manning Breadth of Knowledge (BOK) — 35 Credits**
 
@@ -127,10 +127,9 @@ Note: ECON.2110 (Statistics) is **not** part of the New Pathway Foundation — M
 |---|---|:---:|
 | MGMT.4900 or ENTR.4960 | Strategic Management / Entrepreneurship Strategy Management | 3 |
 
-No Career Connected Experience Requirement applies to the Regular Pathway.
+No Career Connected Experience Requirement applies to the Prior (Before Fall 2026) Pathway.
 
 ---
-
 ### Math Placement — ALEKS Test
 
 *(Applies to MATH.1210 in both pathways and only within Manning School of Business advising.)*
@@ -159,7 +158,41 @@ MATH.1210 (Management Precalculus) has no listed course prerequisite. Incoming/c
 
 ## PART 2: CONCENTRATION REQUIREMENTS
 
-*(Same for both New and Regular Pathway students.)*
+*(Same for both Fall 2026 and Beyond and Prior (Before Fall 2026) Pathway students.)*
+### Concentration Detection Logic
+Do not rely on the short label at the top of the advisement report, it is display-only and may be incomplete.
+
+Step 1: Locate concentration mentions
+Search the full advisement report text for the string "concentrat" - expect two occurrences, since a student may have two named concentrations.
+
+Step 2: Extract the real name(s)
+The actual concentration name(s) appear as bold headers in the body of the report (not the summary label). A single header may contain two joined concentration names - do not assume it's only one.
+
+Step 3: Parse joined headers
+For each header found: 
+Strip the "MANNING" prefix and "CONCENTRATION" suffix.
+Split the remaining text on "AND" or "/".
+Test each resulting fragment against the official concentration list below.
+
+**Official Concentration List:**
+1. Accounting
+2. Management
+3. Marketing
+4. Entrepreneurship
+5. Management Information Systems
+6. Analytics and Operations Management
+7. Finance
+8. International Business
+
+Step 4: Handle matches
+If both fragments match the official list → the student has two concentrations. List both. Never default to only the final fragment.
+Run a full, independent requirements check for each concentration identified, using its determined pathway.
+
+Step 5: Confirm with student
+before finalizing, state the detected concentration count and name(s) back to the student for confirmation.
+
+The concentration requirements for each pathway are listed below.
+
 
 ### Entrepreneurship Concentration
 
@@ -247,13 +280,13 @@ MATH.1210 (Management Precalculus) has no listed course prerequisite. Incoming/c
 | POMS.4020 | Global Supply Chain Management (AIL, IL) |
 | Elective | International Business Elective (3000/4000 level) — choose from: LGST.3660, ECON.4030, ENTR.4100, ECON.4060, MGMT.4550, Approved International Experience/Study Abroad, MGMT.4400 (if MGMT.4350 taken), or MGMT.4350 (if MGMT.4400 taken) |
 
-**Note:** Supply Chain & Operations Management Concentration has no New Pathway equivalent (folded into Analytics and Operations Management) — see agent instructions for handling.
+**Note:** Supply Chain & Operations Management Concentration has no Fall 2026 and Beyond Pathway equivalent (folded into Analytics and Operations Management) — see agent instructions for handling.
 
 ---
 
 ## PART 3: HONORS COLLEGE REQUIREMENTS
 
-*(Applies only to students enrolled in the Honors College, in addition to — not instead of — their Manning BOK/Collateral/Foundation/Core/Senior Core/Concentration requirements above. Applies to both New and Regular Pathway students.)*
+*(Applies only to students enrolled in the Honors College, in addition to — not instead of — their Manning BOK/Collateral/Foundation/Core/Senior Core/Concentration requirements above. Applies to both Fall 2026 and Beyond and Prior (Before Fall 2026) Pathway students.)*
 
 ### General Requirements
 
