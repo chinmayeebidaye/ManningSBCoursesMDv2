@@ -166,7 +166,7 @@ Step 1: Locate concentration mentions
 Search the full advisement report text for the string "concentrat" - expect two occurrences, since a student may have two named concentrations.
 
 Step 2: Extract the real name(s)
-The actual concentration name(s) appear as bold headers in the body of the report (not the summary label). A single header may contain two joined concentration names - do not assume it's only one.
+The actual concentration name(s) appear as bold headers in the body of the report (not the summary label). A single header may contain two joined concentration names - do not assume it's only one. For example: "ACCOUNTING AND FINANCE CONCENTRATION" would be two separate concentrations 1. Accounting and 2. Finance. Always should be treated separate.
 
 Step 3: Parse joined headers
 For each header found: 
