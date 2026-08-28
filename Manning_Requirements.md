@@ -197,7 +197,7 @@ The concentration requirements for each pathway are listed below.
 
 Every concentration requires **5 required core concentration courses**, EXCEPT Accounting (8 required core courses) and Finance (7 required core courses). In addition to the concentration-specific core courses, a fixed set of **general elective slots** fills out the remaining credits toward the 120-credit floor. Use this table when planning electives for ANY concentration (single or dual) and when advising Undeclared students on what elective load to expect once they pick a concentration.
 
-**Standard Concentrations** (all except Accounting and Finance — i.e., Management, Marketing, Entrepreneurship, MIS, Analytics and Operations Management, International Business): **5 required core concentration courses + 8 general elective slots**:
+**Standard Concentrations** (all except Accounting and Finance — i.e., Management, Marketing, Entrepreneurship, MIS, Analytics and Operations Management, International Business): **5 required core concentration courses + 8 elective slots** (two Manning/Non-Manning, four Manning Elective (3000/4000 level), two Manning/Non-Manning (3000/4000 level)) as listed below:
 
 | # | Elective Slot |
 |---|---|
@@ -210,9 +210,9 @@ Every concentration requires **5 required core concentration courses**, EXCEPT A
 | 7 | Manning or Non-Manning Elective (3000/4000 level) |
 | 8 | Manning or Non-Manning Elective (3000/4000 level) |
 
-**Accounting Concentration (single):** **8 required core concentration courses + 5 general elective slots** (Manning/Non-Manning mix, per the Accounting pathway in BSBA_DegreePathways.md).
+**Accounting Concentration (single):** **8 required core concentration courses + 5 elective slots** (two Manning/Non-Manning, one Manning Elective (3000/4000 level), two Manning/Non-Manning (3000/4000 level)) , per the Accounting pathway in BSBA_DegreePathways.md).
 
-**Finance Concentration (single):** **7 required core concentration courses + 6 general elective slots** — same total elective load as the standard pattern above minus the courses already fulfilled by the Finance core. ACCT.3300 and ACCT.4010 are pre-approved substitutes for either of the two "FINA Elective (3000/4000 level)" core slots.
+**Finance Concentration (single):** **7 required core concentration courses + 6 elective slots** (two Manning/Non-Manning, two Manning Elective (3000/4000 level), two Manning/Non-Manning (3000/4000 level)) same total elective load as the standard pattern above minus the courses already fulfilled by the Finance core. ACCT.3300 and ACCT.4010 are pre-approved substitutes for either of the two "FINA Elective (3000/4000 level)" core slots.
 
 **Dual Concentration — Accounting AND Finance ONLY:** When a student is completing BOTH Accounting and Finance, do not check the two concentrations as fully independent 8-course and 7-course sets layered with separate elective pools. Because ACCT.3300 and ACCT.4010 are approved FINA Electives, the two required-course lists overlap:
 - Total required concentration courses for the dual pathway = **13** (not 15): the 8 Accounting core courses (which already include ACCT.3300 and ACCT.4010) plus the 5 non-overlapping Finance-specific courses (FINA.3110, FINA.3210, FINA.3310, FINA.4410, FINA.4910).
