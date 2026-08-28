@@ -193,6 +193,32 @@ before finalizing, state the detected concentration count and name(s) back to th
 
 The concentration requirements for each pathway are listed below.
 
+### Concentration Elective Structure (Total Load Rules)
+
+Every concentration requires **5 required core concentration courses**, EXCEPT Accounting (8 required core courses) and Finance (7 required core courses). In addition to the concentration-specific core courses, a fixed set of **general elective slots** fills out the remaining credits toward the 120-credit floor. Use this table when planning electives for ANY concentration (single or dual) and when advising Undeclared students on what elective load to expect once they pick a concentration.
+
+**Standard Concentrations** (all except Accounting and Finance — i.e., Management, Marketing, Entrepreneurship, MIS, Analytics and Operations Management, International Business): **5 required core concentration courses + 8 general elective slots**:
+
+| # | Elective Slot |
+|---|---|
+| 1 | Manning or Non-Manning Elective |
+| 2 | Manning or Non-Manning Elective |
+| 3 | Manning Elective (3000/4000 level) |
+| 4 | Manning Elective (3000/4000 level) |
+| 5 | Manning Elective (3000/4000 level) |
+| 6 | Manning Elective (3000/4000 level) |
+| 7 | Manning or Non-Manning Elective (3000/4000 level) |
+| 8 | Manning or Non-Manning Elective (3000/4000 level) |
+
+**Accounting Concentration (single):** **8 required core concentration courses + 5 general elective slots** (Manning/Non-Manning mix, per the Accounting pathway in BSBA_DegreePathways.md).
+
+**Finance Concentration (single):** **7 required core concentration courses + 6 general elective slots** — same total elective load as the standard pattern above minus the courses already fulfilled by the Finance core. ACCT.3300 and ACCT.4010 are pre-approved substitutes for either of the two "FINA Elective (3000/4000 level)" core slots.
+
+**Dual Concentration — Accounting AND Finance ONLY:** When a student is completing BOTH Accounting and Finance, do not check the two concentrations as fully independent 8-course and 7-course sets layered with separate elective pools. Because ACCT.3300 and ACCT.4010 are approved FINA Electives, the two required-course lists overlap:
+- Total required concentration courses for the dual pathway = **13** (not 15): the 8 Accounting core courses (which already include ACCT.3300 and ACCT.4010) plus the 5 non-overlapping Finance-specific courses (FINA.3110, FINA.3210, FINA.3310, FINA.4410, FINA.4910).
+- The two "FINA Elective (3000/4000 level)" slots are satisfied by ACCT.3300 and ACCT.4010 (already required by Accounting) — do NOT double-count these as separate electives, and do NOT ask the student to take 2 additional FINA electives on top.
+- Confirm this dual substitution explicitly with the student before finalizing the plan, and still run a full independent check that every one of the 13 courses is completed or scheduled.
+- General elective slots for this dual pathway follow the Accounting single-concentration elective count (5 slots), since Finance's required courses are already fully absorbed into the 13.
 
 ### Entrepreneurship Concentration
 
@@ -281,6 +307,19 @@ The concentration requirements for each pathway are listed below.
 | Elective | International Business Elective (3000/4000 level) — choose from: LGST.3660, ECON.4030, ENTR.4100, ECON.4060, MGMT.4550, Approved International Experience/Study Abroad, MGMT.4400 (if MGMT.4350 taken), or MGMT.4350 (if MGMT.4400 taken) |
 
 **Note:** Supply Chain & Operations Management Concentration has no Fall 2026 and Beyond Pathway equivalent (folded into Analytics and Operations Management) — see agent instructions for handling.
+
+### Undeclared (No Concentration Declared)
+
+Applies when the "concentrat" search in the advisement report returns **zero matches** (no bold concentration header found), or the student states they have not declared a concentration.
+
+- Undeclared students have **no concentration-specific course requirements** yet. Do not check them against any concentration table above.
+- Remaining requirements should be reported only for BOK, Collateral, Foundation, Core, and Senior Core - omit the Concentration line entirely (or mark it "Undeclared - not yet applicable").
+- For semester planning, prioritize:
+  1. All still-needed BOK/Collateral/Foundation/Core courses (these apply regardless of eventual concentration).
+  2. "Gateway"/introductory courses from a few concentrations the student is considering, so coursework doubles as exploration.
+  3. General elective slots - label these generically as **"Concentration Elective"** rather than locking them to a specific department prefix, since the exact structure depends on which concentration the student eventually picks.
+- Default explanation for planning purposes: assume the standard **5 concentration courses + 8 electives** pattern (this covers Management, Marketing, Entrepreneurship, MIS, Analytics and Operations Management, and International Business). Only mention Accounting or Finance's different course counts (8+5 and 7+6 respectively, or 13 total if pairing Accounting+Finance) if the student expresses interest in one of those two concentrations specifically - otherwise there's no need to walk through every pattern.
+- Proactively note any university deadline or credit threshold for declaring a concentration if the report or student mentions one, and recommend the student meet with an advisor to declare before it affects registration.
 
 ---
 
