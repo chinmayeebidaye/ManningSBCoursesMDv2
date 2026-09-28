@@ -4,6 +4,8 @@
 
 ## PART 1: CORE REQUIREMENTS
 
+> ⚠️ **WARNING — ALL BOK CREDITS ARE REQUIRED TO GRADUATE:** Every Breadth of Knowledge (BOK) course and credit listed below (35 credits, including both Science Electives and both Co-Req. Science Labs) is a core requirement, just like Collateral, Foundation, Core, and Senior Core. A student cannot graduate with any BOK item unsatisfied, even if they have reached 120 total credits. Any BOK item the advisement report marks as not satisfied must be listed as a remaining requirement and scheduled.
+
 ### Fall 2026 and Beyond Pathway (Fall 2026+ catalog)
 
 **Manning Breadth of Knowledge (BOK) — 35 Credits**
@@ -25,6 +27,9 @@
 | __________ | Co-Req. Science Lab (SCL) | 1 |
 
 **AH rule:** No HIST course is required (though encouraged). No more than **2 of the 3 AH electives** may share the same course prefix/department — e.g., a student with two HIST courses cannot count a third HIST course toward the remaining AH slot and must pick a different department.
+
+**Commonly missed pair:** the two "Science Elective (SCL)" rows and their two "Co-Req. Science Lab (SCL)" rows (4 rows, 8 credits total) are frequently left unmarked as complete on an advisement report even when everything else in BOK is done, and are easy to overlook when scanning mainly the concentration/elective sections. If a report's total unmet-requirement credits don't match its stated remaining-credits-to-120, re-check these 4 rows specifically before concluding the mismatch is unexplained.
+ 
 
 **Manning Collateral Requirements — 6 Credits**
 
@@ -90,6 +95,8 @@ Note: ECON.2110 (Statistics) is **not** part of the Fall 2026 and Beyond Pathway
 | __________ | Co-Req. Science Lab (SCL) | 1 |
 
 **AH rule:** One AH elective must be a HIST course. No more than two BOK courses overall may share the same course prefix.
+
+⚠️ **Commonly missed pair:** as with the Fall 2026+ table above, the two "Science Elective (SCL)" rows and their two "Co-Req. Science Lab (SCL)" rows (4 rows, 8 credits total) are easy to overlook. If unmet-requirement credits don't reconcile with remaining-credits-to-120, check these 4 rows before flagging the report as inconsistent.
 
 **Manning Collateral Requirements — 9 Credits**
 
